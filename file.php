@@ -228,12 +228,4 @@ echo "Позиция первой цифры: " . ($firstDigit ? $firstDigit : "
 echo "Позиция последней цифры: " . ($lastDigit ? $lastDigit : "Цифры не найдены") . "<br>";
 
 
-
-
-
-
-
-
-
-
 ?>
